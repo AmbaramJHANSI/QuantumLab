@@ -1,4 +1,4 @@
-# Quantum Computing with Qiskit: Grover's Search and a Quantum-Kernel Classifier
+# QuantumLab: Grover’s Search \& Quantum-Kernel Classification (Qiskit)
 
 Two small, self-contained projects that explore a core quantum algorithm and a quantum machine learning
 method, with every result checked against theory or a classical baseline.
