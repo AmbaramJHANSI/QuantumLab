@@ -8,7 +8,7 @@ method, with every result checked against theory or a classical baseline.
 | Grover's search | `grover.py` | Does my from-scratch implementation match theory, and how much noise can it survive? |
 | Quantum-kernel SVM | `quantum_iris.py` | Can a 4-qubit feature map classify Iris as well as a classical RBF-SVM? |
 
-The classifier extends my classical [IrisInsight](https://github.com/YOUR_USERNAME/IrisInsight) project by replacing the
+The classifier extends my classical [IrisInsight](https://github.com/AmbaramJHANSI/iris-insight-ml-dashboard) project by replacing the
 classical kernel with one computed from quantum states.
 
 ---
